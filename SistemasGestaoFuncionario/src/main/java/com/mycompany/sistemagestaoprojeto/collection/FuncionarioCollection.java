@@ -3,7 +3,7 @@ package com.mycompany.sistemagestaoprojeto.collection;
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.Collections;
-import ufes.pss.gestaodefuncionarios.model.Funcionario;
+import com.mycompany.sistemasgestaoprojeto.model.Funcionario;
 
 public class FuncionarioCollection {
 

@@ -1,8 +1,8 @@
 package com.mycompany.sistemagestaoprojeto.collection;
 
 import java.util.ArrayList;
-import ufes.pss.gestaodefuncionarios.model.Bonus;
-import ufes.pss.gestaodefuncionarios.model.BonusHistorico;
+import com.mycompany.sistemagestaoprojeto.model.Bonus;
+
 
 public class HistoricoBonus {
     
